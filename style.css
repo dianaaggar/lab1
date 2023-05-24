@@ -1,0 +1,32 @@
+.navContainer{
+    border: solid black;
+    background-color:rgb(227, 165, 165);
+    height:45px;
+}
+.titleContainer{
+    border:solid red;
+    text-align: center;
+    background-color:bisque;
+    color: rgb(152, 12, 12);
+    font-size: 20px;
+}
+
+.picture{
+    border:solid orange;
+    height: 400px;
+    width:500px;
+}
+.buttonContainer{
+    border:solid red;
+    height:65px;
+}
+.boxContainer{
+    border:solid peru;
+    height:75px;
+}
+​
+.section{
+    border:solid purple;
+    margin:1em;
+    display:flex;
+}
